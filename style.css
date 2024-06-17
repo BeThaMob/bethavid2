@@ -40,3 +40,13 @@
     transition-duration: 300ms;
     color: rgb(255, 204, 0);
 }
+
+.bigay {
+    position: relative;
+    color: rgb(0, 255, 255);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 20px;
+    left: 20px;
+    
+}
